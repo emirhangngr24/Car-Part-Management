@@ -14,7 +14,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/contact")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "http://localhost:3000")
 public class ContactFormController {
 
     private final ContactFormService contactFormService;
