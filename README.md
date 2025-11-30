@@ -117,6 +117,7 @@ http://localhost:8080/swagger-ui.html
 3. Enter your JWT token
 4. Select an endpoint and click "Try it out" button
 5. Send the request
+<img width="987" height="850" alt="Screenshot 2025-11-30 174047" src="https://github.com/user-attachments/assets/0936abe1-a8fe-49db-82c5-37e56a7328c3" />
 
 ### Example cURL Request
 ```bash
