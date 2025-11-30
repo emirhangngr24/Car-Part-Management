@@ -13,7 +13,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class SiteContentController {
 
     private final SiteContentService service;
